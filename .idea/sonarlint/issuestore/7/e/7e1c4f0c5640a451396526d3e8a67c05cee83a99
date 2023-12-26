@@ -1,3 +1,7 @@
 
-P
-java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(×¼­Æ8õˆ—«Ê1
+G	java:S106"+Replace this use of System.out by a logger.(¤«ºÑ8¨Ñ²©Ê1
+G	java:S106"+Replace this use of System.out by a logger.(¤«ºÑ8©Ñ²©Ê1
+G	java:S106"+Replace this use of System.out by a logger.(…—ãÇ8©Ñ²©Ê1
+L	java:S106!"+Replace this use of System.out by a logger.(´Šž÷úÿÿÿÿ8©Ñ²©Ê1

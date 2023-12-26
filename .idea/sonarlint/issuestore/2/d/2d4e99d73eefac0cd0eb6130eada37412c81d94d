@@ -1,4 +1,8 @@
 
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ‚Õùÿÿÿÿ
-—
-java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Üó
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ‚Õùÿÿÿÿ8÷—«Ê1
+L	java:S106"+Replace this use of System.out by a logger.(°Óé°ıÿÿÿÿ8ü—«Ê1
+G	java:S106"+Replace this use of System.out by a logger.(ä·ØÙ8ü—«Ê1
+G	java:S106"+Replace this use of System.out by a logger.(«”­8ü—«Ê1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ8ü—«Ê1
+=	java:S131""Add a default case to this switch.(€ä¿;8ü—«Ê1
+G	java:S106"+Replace this use of System.out by a logger.(³Ñ¤8ü—«Ê1

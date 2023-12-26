@@ -1,11 +1,4 @@
 
-B
-java:S1068"'Remove this unused "num" private field.(®±éîþÿÿÿÿ
-C
-java:S1068"-Remove this unused "memberNum" private field.(ÁÐŒ­
-<
-java:S1068"&Remove this unused "id" private field.(æ¨ç†
-A
-java:S1068"&Remove this unused "pw" private field.(ýÀƒÙûÿÿÿÿ
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ößÃ„ÿÿÿÿÿ8–”ì«Ê1
 I
-java:S1068".Remove this unused "memberName" private field.(«àôûÿÿÿÿ
+java:S1068"'Remove this unused "num" private field.(ößÃ„ÿÿÿÿÿ8™”ì«Ê1

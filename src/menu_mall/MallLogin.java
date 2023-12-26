@@ -12,6 +12,7 @@ public class MallLogin implements MenuCommand {
 
   @Override
   public boolean update() {
+    System.out.println("로그인");
 
     return false;
   }
